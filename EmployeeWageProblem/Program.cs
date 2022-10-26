@@ -1,5 +1,5 @@
-﻿using System:
-    namespace EmployeeWage
+﻿using System;
+    namespace EmployeeWageProblem
 {
     class Program
     {

@@ -7,7 +7,7 @@
         {
             Console.WriteLine("Welcome to EmployeeWage statement");
             EmployeeWage employee = new EmployeeWage();
-            employee.Attendance();
+            employee.EmpWage();
         }
     }
 }
